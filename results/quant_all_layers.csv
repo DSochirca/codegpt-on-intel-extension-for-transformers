@@ -1,0 +1,6 @@
+Model name,Disk size,Mem usage,CPU inf,Edit sim,EM
+pruned_sparsity_60,240.52,3181.77,2.74,30.54,9.0
+asym_per_channel,211.03,3189.43,2.73,11.83,0.0
+sym_per_channel,260.39,3185.53,2.72,20.78,0.4
+asym_per_tensor,263.58,3329.73,2.77,14.64,0.0
+sym_per_tensor,212.07,3284.34,2.63,13.5,0.0
